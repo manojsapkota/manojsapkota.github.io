@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manoj Sapkota</title>
-    <link>http://manoj34sapkota.github.io/</link>
+    <link>http://manojsapkota.github.io/</link>
     <description>Recent content on Manoj Sapkota</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Manoj Sapkota</copyright><atom:link href="http://manoj34sapkota.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Manoj Sapkota</copyright><atom:link href="http://manojsapkota.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://manoj34sapkota.github.io/hobbies/</link>
+      <link>http://manojsapkota.github.io/hobbies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manoj34sapkota.github.io/hobbies/</guid>
+      <guid>http://manojsapkota.github.io/hobbies/</guid>
       <description>I am Manoj Sapkota, a PhD candidate in the Institute of Plant Breeding, Genetics, and Genomics at the University of Georgia, Athens, GA, US. I am a member of van der Knaap lab working under the supervision of Dr. Esther van der Knaap. I am originally from Nepal. I did my undergrad in the Institute of Agriculture and Animal Sciences at the Tribhuvan University, Rampur, Chitwan, Nepal. I had also worked as a Reserch Technician at International Maize and Wheat Improvement Centre (CIMMYT), Nepal before I came to UGA to pursue my PhD.</description>
     </item>
     
     <item>
       <title>My CV and Resume</title>
-      <link>http://manoj34sapkota.github.io/cv/</link>
+      <link>http://manojsapkota.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manoj34sapkota.github.io/cv/</guid>
+      <guid>http://manojsapkota.github.io/cv/</guid>
       <description>My CV You can find my CV here.
 My Resume You can find my resume here.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://manoj34sapkota.github.io/publications/</link>
+      <link>http://manojsapkota.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manoj34sapkota.github.io/publications/</guid>
+      <guid>http://manojsapkota.github.io/publications/</guid>
       <description>My Publications You can also check my Google Scholar Profile.
 2023 Sapkota, M., Pereira, L., Wang, Y., Zhang, L., Topcu, Y., Tieman, D. and van der knaap, E., 2023. Structural variation underlies functional diversity at methyl salicylate loci in tomato. PLOS Genetics, In press
-Frick, E.M., Sapkota, M., Pereira Garcia, L., Wang, Y., Hermanns, A., Giovannoni, J.J., van der Knaap, E., Tieman, D.M. and Klee, H.J., 2023. A family of methyl esterases converts methyl salicylate to salicylic acid in ripening tomato fruit.</description>
+Zhang, B., Li, Q., Keyhaninejad, N., Taitano, N., Sapkota, M., Snouffer, A. and van der Knaap, E., 2023. A combinatorial TRM‐OFP module bilaterally fine‐tunes tomato fruit shape.</description>
     </item>
     
   </channel>
